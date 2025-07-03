@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 - 📫 How to reach me linkedin.com/in/aaditya-agnihotri-2680b3265/
 - 😄 Pronouns: He/him
+- Email id - agnihotriaaditya09@gmail.com
+  
 
 
 <!---
