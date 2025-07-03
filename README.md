@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaditya97735
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Machine Learning & Deep Learning
 - 📫 How to reach me linkedin.com/in/aaditya-agnihotri-2680b3265/
 - 😄 Pronouns: He/him
 
